@@ -13,7 +13,7 @@ public class DemoController
 	@RequestMapping("/")    
 	public String index()  
 	{    
-	return"index";    
+		return"index";    
 	}    
 	@RequestMapping(value="/save", method=RequestMethod.POST)    
 	public ModelAndView save(@ModelAttribute User user)  
