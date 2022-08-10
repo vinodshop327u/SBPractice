@@ -1,0 +1,3 @@
+com\vinod\Application.class
+com\vinod\controller\TestController.class
+com\vinod\service\RabbitMQListner.class
