@@ -1,0 +1,3 @@
+com\vinod\Application.class
+com\vinod\service\RabbitMQConsumer.class
+com\vinod\model\Employee.class
